@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "06.FoodShortage": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    }
+  }
+}
